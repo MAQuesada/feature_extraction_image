@@ -1,0 +1,104 @@
+
+________________________________________
+------- DENSE -- ORB -------- 
+Número de puntos clave en la primera imagen: 2701
+Número de puntos clave en la segunda imagen: 2701
+Número de matches en total: 2701
+Número de matches: 170
+________________________________________
+------- FAST -- ORB -------- *** la q mas tiene 
+Número de puntos clave en la primera imagen: 3147
+Número de puntos clave en la segunda imagen: 2091
+Número de matches en total: 3147
+Número de matches: 147
+________________________________________
+------- GFTT -- ORB -------- 
+Número de puntos clave en la primera imagen: 2233
+Número de puntos clave en la segunda imagen: 764
+Número de matches en total: 2233
+Número de matches: 134
+________________________________________
+
+
+dos mas del mismo baño 
+--------------------------------------------------
+
+------- DENSE -- ORB --------
+Número de puntos clave en la primera imagen: 2701
+Número de puntos clave en la segunda imagen: 2701
+Número de matches en total: 2701
+Número de matches: 144
+________________________________________
+------- FAST -- ORB --------
+Número de puntos clave en la primera imagen: 5296
+Número de puntos clave en la segunda imagen: 3147
+Número de matches en total: 5296
+Número de matches: 251
+________________________________________
+------- GFTT -- ORB --------
+Número de puntos clave en la primera imagen: 3517
+Número de puntos clave en la segunda imagen: 2233
+Número de matches en total: 3517
+Número de matches: 151
+________________________________________
+
+--------------------------------------------------
+------- DENSE -- ORB --------
+Número de puntos clave en la primera imagen: 2701
+Número de puntos clave en la segunda imagen: 2701
+Número de matches en total: 2701
+Número de matches: 120
+________________________________________
+------- FAST -- ORB --------
+Número de puntos clave en la primera imagen: 2324
+Número de puntos clave en la segunda imagen: 2494
+Número de matches en total: 2324
+Número de matches: 70
+________________________________________
+------- GFTT -- ORB --------
+Número de puntos clave en la primera imagen: 1516
+Número de puntos clave en la segunda imagen: 1596
+Número de matches en total: 1516
+Número de matches: 32
+________________________________________
+--------------------------------------------------
+------- DENSE -- ORB --------
+Número de puntos clave en la primera imagen: 2701
+Número de puntos clave en la segunda imagen: 2701
+Número de matches en total: 2701
+Número de matches: 99
+________________________________________
+------- FAST -- ORB --------
+Número de puntos clave en la primera imagen: 2459
+Número de puntos clave en la segunda imagen: 2494
+Número de matches en total: 2459
+Número de matches: 45
+________________________________________
+------- GFTT -- ORB --------
+Número de puntos clave en la primera imagen: 1471
+Número de puntos clave en la segunda imagen: 1596
+Número de matches en total: 1471
+Número de matches: 31
+________________________________________
+--------------------------------------------------
+
+------- DENSE -- ORB --------
+Número de puntos clave en la primera imagen: 2701
+Número de puntos clave en la segunda imagen: 2701
+Número de matches en total: 2701
+Número de matches: 74
+________________________________________
+------- FAST -- ORB --------
+Número de puntos clave en la primera imagen: 2459
+Número de puntos clave en la segunda imagen: 2324
+Número de matches en total: 2459
+Número de matches: 48
+________________________________________
+------- GFTT -- ORB --------
+Número de puntos clave en la primera imagen: 1471
+Número de puntos clave en la segunda imagen: 1516
+Número de matches en total: 1471
+Número de matches: 22
+________________________________________
+
+
